@@ -77,7 +77,22 @@ RepoPilot is a prototype static analyzer. Do not upload private repositories, cr
 
 ## AI disclosure
 
-This prototype uses deterministic, explainable engineering rules for its repository-health recommendations rather than a hosted generative-AI model. If an AI coding assistant was used while developing this project, disclose the tool and its role in the hackathon submission as required by the rules.
+This prototype uses deterministic, explainable engineering rules for its repository-health recommendations rather than a hosted generative-AI model. If an AI coding assistant was used 
+while developing this project, disclose the tool and its role in the hackathon submission as required by the rules.
+
+## 🔮 Future Improvements
+
+RepoPilot can be extended with:
+
+- **Sandboxed automated test execution**
+- **AST-based code-quality analysis**
+- **Dependency vulnerability scanning**
+- **GitHub repository integration**
+- **Pull-request health checks**
+- **Historical repository health tracking**
+- **Optional LLM-based explanations**
+
+Our goal is to evolve RepoPilot from a simple repository analyzer into a practical **developer-assistance platform for maintaining healthier software projects**.
 
 ## Limitations
 
